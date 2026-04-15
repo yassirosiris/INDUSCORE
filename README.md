@@ -40,7 +40,7 @@ Le projet est structuré selon une approche modulaire pour assurer la scalabilit
 
 1.  **Cloner le projet** :
     ```bash
-    git clone [https://github.com/votre-username/induscore.git](https://github.com/votre-username/induscore.git)
+    git clone [https://github.com/yassirosiris/induscore.git](https://github.com/yassirosiris/induscore.git)
     ```
 2.  **Configuration** : Assurez-vous d'avoir le JDK 17+ et Maven installés.
 3.  **Lancer le Backend** : Exécuter `DataIngestionService.java` (Spring Boot).
